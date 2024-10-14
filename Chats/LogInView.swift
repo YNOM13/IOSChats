@@ -15,7 +15,6 @@ struct LogInView: View {
     var body: some View {
         NavigationView{
             ScrollView{
-                
                 VStack (spacing: 16){
                     Picker(selection: $isLoginMode, label: Text("Picker here")){
                         Text("Login").tag(true)
