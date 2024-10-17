@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAaJ3J2_j0Jx5DU52vKEqVqx6nDWuVmlws</string>
+	<string>AIzaSyDZOvzBEinvVe5Ew8AgCD-omPXJh3a31fU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1068585458918</string>
+	<string>1030351760450</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>chatio.com.Chats</string>
 	<key>PROJECT_ID</key>
-	<string>chats-ca53d</string>
+	<string>ioschats-6c273</string>
 	<key>STORAGE_BUCKET</key>
-	<string>chats-ca53d.appspot.com</string>
+	<string>ioschats-6c273.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1068585458918:ios:325621476c00a54d606f27</string>
+	<string>1:1030351760450:ios:944e7d93b2749453ff11db</string>
 </dict>
 </plist>
